@@ -1,4 +1,4 @@
-package br.com.bandtec.exercicio1;
+package br.com.bandtec.exercicio1_2;
 
 public class Util {
 	

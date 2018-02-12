@@ -1,6 +1,6 @@
-package br.com.bandtec.exercicio1;
+package br.com.bandtec.exercicio1_2;
 
-import br.com.bandtec.exercicio1.Util;
+import br.com.bandtec.exercicio1_2.Util;
 
 public class ProgramBoletim {
 	
